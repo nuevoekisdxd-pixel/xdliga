@@ -1,0 +1,112 @@
+[
+  {
+    "id": "EQ-001",
+    "nombre": "Parque Lezama",
+    "apodo": "Porteño",
+    "fundacion": "T1",
+    "estadio": "Papa Francisco",
+    "ubicacion": "Ciudad Furia",
+    "capacidad": 25000,
+    "division": "Xd Liga",
+    "logo": "parque-lezama.png"
+  },
+  {
+    "id": "EQ-002",
+    "nombre": "Athletic Malta",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Xd Liga",
+    "logo": "athletic-malta.png"
+  },
+  {
+    "id": "EQ-003",
+    "nombre": "Atlético San Cristóbal",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Serie B",
+    "logo": "atletico-san-cristobal.png"
+  },
+  {
+    "id": "EQ-004",
+    "nombre": "Guanacos FC",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Serie B",
+    "logo": "guanacos-fc.png"
+  },
+  {
+    "id": "EQ-005",
+    "nombre": "Liverpool de Mapistán",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Xd Liga",
+    "logo": "liverpool-de-mapistan.png"
+  },
+  {
+    "id": "EQ-006",
+    "nombre": "Tres Ángulos Azules",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Xd Liga",
+    "logo": "tres-angulos-azules.png"
+  },
+  {
+    "id": "EQ-007",
+    "nombre": "Barca Lupus",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "Xd Liga",
+    "logo": "barca-lupus.png"
+  },
+  {
+    "id": "EQ-008",
+    "nombre": "Estudiantes Unidos",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "-",
+    "logo": "default.png"
+  },
+  {
+    "id": "EQ-009",
+    "nombre": "Deportivo Guamaré",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "-",
+    "logo": "default.png"
+  },
+  {
+    "id": "EQ-010",
+    "nombre": "Ekisd Rangers",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "-",
+    "logo": "ekisd-rangers.png"
+  }
+]

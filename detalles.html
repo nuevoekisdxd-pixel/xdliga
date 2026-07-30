@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ficha Técnica del Equipo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="menu-principal">
+        <ul>
+            <li><a href="equipos.html">Equipos</a></li>
+            <li><a href="mapa.html">Mapa</a></li>
+            <li><a href="historial.html">Historial de partidos</a></li>
+            <li><a href="tabla-historica.html">Tablas históricas</a></li>
+            <li><a href="acerca.html">Acerca de nosotros</a></li>
+        </ul>
+    </nav>
+
+    <main class="contenido-perfil" id="perfil-cargar">
+        <a href="equipos.html" class="boton-volver">&larr; Volver a la lista</a>
+        
+        <!-- El contenedor del perfil inicia vacío y se llena con JS -->
+        <div id="detalle-club" class="perfil-equipo">
+            <p>Cargando datos del club...</p>
+        </div>
+    </main>
+
+    <!-- Script que detecta qué equipo abrir -->
+    <script>
+        // 1. Obtener el ID desde la URL (ej: ?id=EQ-001)
+        const params = new URLSearchParams(window.location.search);
+        const equipoId = params.get('id');
+
+        // 2. Buscar los datos en el JSON
+        fetch('equipos.json')
+          .then(response => response.json())
+          .then(equipos => {
+            const club = equipos.find(e => e.id === equipoId);
+            const contenedor = document.getElementById('detalle-club');
+
+            if (club) {
+                // Cambiar el título de la pestaña del navegador dinámicamente
+                document.title = `Ficha Técnica - ${club.nombre}`;
+                
+                // 3. Inyectar la información homogeneizada en la plantilla
+                contenedor.innerHTML = `
+                <img src="logos/${club.logo}" alt="Logo" class="logo-grande">
+                <h1>${club.nombre}</h1>
+                <p class="apodo-perfil">"${club.apodo}"</p>
+                <table class="tabla-datos">
+                <tr><th>Fundación</th><td>${club.fundacion}</td></tr>
+                <tr><th>Estadio</th><td>${club.estadio}</td></tr>
+                <tr><th>Capacidad</th><td>${club.capacidad.toLocaleString()} espectadores</td></tr>
+                <tr><th>Ubicación</th><td>${club.ubicacion}</td></tr>
+                <tr><th>División Actual</th><td>${club.division}</td></tr>
+                </table>
+                `;
+                // Guardamos el ID oculto en el contenedor por si se necesita
+                contenedor.setAttribute('data-id', club.id);
+            } else {
+                contenedor.innerHTML = `<h2>Equipo no encontrado</h2>`;
+            }
+          });
+    </script>
+</body>
+</html>

@@ -138,3 +138,127 @@ h1 {
     color: #1e3a1e;
     font-weight: bold;
 }
+
+/* Contenedor principal de partidos */
+.historial-partidos {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+/* Tarjeta de cada partido */
+.partido-tarjeta {
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Fila superior con metadatos */
+.partido-info-superior {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: #777;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+}
+
+.partido-info-superior span {
+    font-weight: 500;
+}
+
+/* Bloque central del marcador */
+.marcador-bloque {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Estilo para cada bloque de equipo */
+.equipo-marcador {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    gap: 15px;
+}
+
+.equipo-marcador.local {
+    justify-content: flex-start;
+}
+
+.equipo-marcador.visitante {
+    justify-content: flex-end;
+    text-align: right;
+}
+
+/* Homogeneidad en los logos dentro del historial */
+.logo-partido {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.equipo-nombre {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Números del marcador de goles */
+.resultado-numeros {
+    width: 20%;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #1e3a1e;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+/* Sección inferior para cuando hay penales */
+.tanda-penales-bloque {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px dashed #ddd;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.etiqueta-penales {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    color: #888;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.resultado-penales {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #d32f2f; /* Un color distintivo para diferenciarlo de los goles regulares */
+}
+
+/* Responsivo para móviles */
+@media (max-width: 600px) {
+    .marcador-bloque {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .equipo-marcador {
+        width: 100%;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+    .equipo-marcador.visitante {
+        flex-direction: row-reverse; /* Mantiene el logo a la derecha en móviles */
+    }
+    .resultado-numeros {
+        width: 100%;
+    }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PART-001",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "31/12/2024",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 4 },
+    "visitante": { "id": "EQ-004", "goles": 3 }
+  },
+  {
+    "id": "PART-002",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "31/12/2024",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-006", "goles": 4 }
+  },
+  {
+    "id": "PART-003",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "31/12/2024",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-010", "goles": 5 }
+  },
+  {
+    "id": "PART-004",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "31/12/2024",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 4 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-005",
+    "temporada": "PRUEBA",
+    "competicion": "PRUEBA",
+    "fecha": "30/07/2026",
+    "penales": true,
+    "local": { "id": "EQ-001", "goles": 1, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-0010", "goles": 1, "penalesAnotados": 3 }
+  }
+]
