@@ -44,3 +44,97 @@ h1 {
     font-family: Arial, sans-serif;
     color: #333;
 }
+
+/* Estilos para la lista compacta de resumen */
+.tarjeta-equipo-resumen {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    padding: 15px 20px;
+    border-radius: 6px;
+    gap: 20px;
+}
+
+.logo-pequeno {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.info-resumen {
+    flex: 1;
+}
+
+.info-resumen h2 {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.info-resumen p {
+    margin: 5px 0 0 0;
+    color: #666;
+}
+
+.boton-ver {
+    background-color: #1e3a1e;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+/* Estilos para la página de información detallada (Perfil) */
+.contenido-perfil {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.perfil-equipo {
+    text-align: center;
+    background: white;
+    padding: 40px 20px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    margin-top: 20px;
+}
+
+.logo-grande {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.apodo-perfil {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+/* Tabla elegante para los datos */
+.tabla-datos {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.tabla-datos th, .tabla-datos td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.tabla-datos th {
+    background-color: #f9f9f9;
+    color: #1e3a1e;
+    width: 40%;
+}
+
+.boton-volver {
+    text-decoration: none;
+    color: #1e3a1e;
+    font-weight: bold;
+}
