@@ -262,3 +262,83 @@ h1 {
         width: 100%;
     }
 }
+
+/* Contenedor responsivo para permitir scroll horizontal en móviles si es necesario */
+.contenedor-tabla {
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 25px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.tabla-clasificacion {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 0.95rem;
+}
+
+.tabla-clasificacion th, 
+.tabla-clasificacion td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.tabla-clasificacion th {
+    background-color: #1e3a1e;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.alinear-izquierda {
+    text-align: left;
+}
+
+/* Columna de equipo con alineación del logo */
+.columna-equipo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.logo-tabla {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+.posicion {
+    font-weight: bold;
+    color: #777;
+    background: #fdfdfd;
+}
+
+/* Destacar la columna de puntos totales */
+.puntos-destacados {
+    font-weight: 800;
+    color: #1e3a1e;
+    background-color: #f7f9f7;
+}
+
+/* Colores para la diferencia de goles */
+.dg-positiva {
+    color: #2e7d32;
+    font-weight: 600;
+}
+
+.dg-negativa {
+    color: #c62828;
+    font-weight: 600;
+}
+
+/* Efecto Hover en las filas */
+.tabla-clasificacion tbody tr:hover {
+    background-color: #f5f9f5;
+}

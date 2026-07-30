@@ -37,6 +37,150 @@
   },
   {
     "id": "PART-005",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "01/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 2 }
+  },
+  {
+    "id": "PART-006",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "01/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 3 }
+  },
+  {
+    "id": "PART-007",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "02/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-008",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "02/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 2 },
+    "visitante": { "id": "EQ-003", "goles": 2 }
+  },
+  {
+    "id": "PART-009",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "02/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-009", "goles": 5 }
+  },
+  {
+    "id": "PART-010",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "02/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 0 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-011",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "03/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-006", "goles": 1 }
+  },
+  {
+    "id": "PART-012",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "03/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 5 },
+    "visitante": { "id": "EQ-003", "goles": 3 }
+  },
+  {
+    "id": "PART-013",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "04/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 2 }
+  },
+  {
+    "id": "PART-014",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "04/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 0 }
+  },
+  {
+    "id": "PART-015",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "04/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 0 }
+  },
+  {
+    "id": "PART-016",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "04/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-009", "goles": 2 }
+  },
+  {
+    "id": "PART-017",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "06/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 1 },
+    "visitante": { "id": "EQ-007", "goles": 2 }
+  },
+  {
+    "id": "PART-018",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "07/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 3 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-019",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "08/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 0 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-020",
+    "temporada": "T1",
+    "competicion": "Torneo de Verano",
+    "fecha": "09/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 0 },
+    "visitante": { "id": "EQ-009", "goles": 1 }
+  },
+  {
+    "id": "PART-021",
     "temporada": "PRUEBA",
     "competicion": "PRUEBA",
     "fecha": "30/07/2026",
@@ -45,7 +189,7 @@
     "visitante": { "id": "EQ-010", "goles": 1, "penalesAnotados": 3 }
   },
   {
-    "id": "PART-006",
+    "id": "PART-022",
     "temporada": "PRUEBA",
     "competicion": "PRUEBA",
     "fecha": "30/07/2026",
