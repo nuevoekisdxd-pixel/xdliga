@@ -43,5 +43,14 @@
     "penales": true,
     "local": { "id": "EQ-001", "goles": 1, "penalesAnotados": 4 },
     "visitante": { "id": "EQ-010", "goles": 1, "penalesAnotados": 3 }
+  },
+  {
+    "id": "PART-006",
+    "temporada": "PRUEBA",
+    "competicion": "PRUEBA",
+    "fecha": "30/07/2026",
+    "penales": true,
+    "local": { "id": "EQ-002", "goles": 1, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-009", "goles": 1, "penalesAnotados": 3 }
   }
 ]
