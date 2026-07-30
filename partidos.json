@@ -42,6 +42,6 @@
     "fecha": "30/07/2026",
     "penales": true,
     "local": { "id": "EQ-001", "goles": 1, "penalesAnotados": 4 },
-    "visitante": { "id": "EQ-0010", "goles": 1, "penalesAnotados": 3 }
+    "visitante": { "id": "EQ-010", "goles": 1, "penalesAnotados": 3 }
   }
 ]
