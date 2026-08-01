@@ -1,44 +1,67 @@
-// Cargamos ambos archivos JSON en paralelo
+// Variables globales para mantener los datos en memoria una vez cargados
+let datosEquiposGlobal = [];
+let datosPartidosGlobal = [];
+
 Promise.all([
   fetch('equipos.json').then(res => res.json()),
   fetch('partidos.json').then(res => res.json())
 ])
 .then(([equipos, partidos]) => {
+  datosEquiposGlobal = equipos;
+  datosPartidosGlobal = partidos;
+
+  // Escuchar los cambios en los selectores desplegables
+  document.getElementById('filtro-orden').addEventListener('change', procesarYMostrarPartidos);
+  document.getElementById('filtro-limite').addEventListener('change', procesarYMostrarPartidos);
+
+  // Primera carga inicial de la página
+  procesarYMostrarPartidos();
+})
+.catch(error => console.error("Error cargando los datos del historial:", error));
+
+// Función principal que procesa el orden y límite
+function procesarYMostrarPartidos() {
   const contenedor = document.getElementById('contenedor-partidos');
-  
-  // ==========================================
-  // ORDENAR CRONOLÓGICAMENTE DE MANERA ESTRICTA
-  // ==========================================
-  partidos.sort((a, b) => {
-    // Convertimos las fechas "DD/MM/AAAA" a objetos Date reales para comparar
+  contenedor.innerHTML = ''; // Limpiamos los partidos anteriores de la pantalla
+
+  // Obtenemos los valores seleccionados por el usuario
+  const orden = document.getElementById('filtro-orden').value;
+  const limite = document.getElementById('filtro-limite').value;
+
+  // Hacemos una copia de los partidos para no alterar el array original
+  let partidosProcesados = [...datosPartidosGlobal];
+
+  // 1. APLICAR ORDENAMIENTO CRONOLÓGICO
+  partidosProcesados.sort((a, b) => {
     const [diaA, mesA, anioA] = a.fecha.split('/');
     const [diaB, mesB, anioB] = b.fecha.split('/');
     
-    // El formato Date de JavaScript usa (Año, Mes - 1, Día)
-    const fechaObjetoA = new Date(anioA, mesA - 1, diaA);
-    const fechaObjetoB = new Date(anioB, mesB - 1, diaB);
+    const fechaA = new Date(anioA, mesA - 1, diaA);
+    const fechaB = new Date(anioB, mesB - 1, diaB);
     
-    // CRITERIO: Si quieres los más recientes primero, usa: fechaObjetoB - fechaObjetoA
-    // Si prefieres los más antiguos primero, usa: fechaObjetoA - fechaObjetoB
-    return fechaObjetoB - fechaObjetoA; 
+    if (orden === 'recientes') {
+      return fechaB - fechaA; // Nuevos primero
+    } else {
+      return fechaA - fechaB; // Antiguos primero
+    }
   });
-  // ==========================================
 
-  // Ahora el bucle forEach recorrerá los partidos perfectamente ordenados por fecha
+  // 2. APLICAR LÍMITE DE CANTIDAD (Paginación simple)
+  if (limite !== 'todos') {
+    const cantidadACortar = parseInt(limite, 10);
+    partidosProcesados = partidosProcesados.slice(0, cantidadACortar);
+  }
 
-  partidos.forEach(partido => {
-    // BUSCADOR: Encontramos los datos completos del club usando su ID
-    const datosLocal = equipos.find(e => e.id === partido.local.id);
-    const datosVisitante = equipos.find(e => e.id === partido.visitante.id);
+  // 3. RENDERIZAR EN EL HTML
+  partidosProcesados.forEach(partido => {
+    const datosLocal = datosEquiposGlobal.find(e => e.id === partido.local.id);
+    const datosVisitante = datosEquiposGlobal.find(e => e.id === partido.visitante.id);
 
-    // Si por algún error un equipo no existe en equipos.json, ponemos datos por defecto
     const nombreLocal = datosLocal ? datosLocal.nombre : "Equipo Desconocido";
     const logoLocal = datosLocal ? datosLocal.logo : "defecto.png";
-    
     const nombreVisitante = datosVisitante ? datosVisitante.nombre : "Equipo Desconocido";
     const logoVisitante = datosVisitante ? datosVisitante.logo : "defecto.png";
 
-    // Lógica condicional para los penales
     let bloquePenales = '';
     if (partido.penales) {
       bloquePenales = `
@@ -52,7 +75,6 @@ Promise.all([
         </div>`;
     }
 
-    // Creamos la tarjeta insertando las variables combinadas
     const tarjeta = document.createElement('article');
     tarjeta.className = 'partido-tarjeta';
     tarjeta.setAttribute('data-match-id', partido.id);
@@ -83,5 +105,4 @@ Promise.all([
 
     contenedor.appendChild(tarjeta);
   });
-})
-.catch(error => console.error("Error cargando los datos del historial:", error));
+}

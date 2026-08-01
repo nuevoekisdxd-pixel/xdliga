@@ -20,6 +20,26 @@
     <main class="contenido">
         <h1>Historial de Partidos</h1>
         <p>Registro cronológico de todos los encuentros de la Xd Liga.</p>
+
+        <div class="controles-historial">
+        <div class="control-grupo">
+            <label for="filtro-orden">Orden:</label>
+            <select id="filtro-orden">
+                <option value="recientes" selected>Más recientes primero</option>
+                <option value="antiguos">Más antiguos primero</option>
+            </select>
+        </div>
+
+        <div class="control-grupo">
+            <label for="filtro-limite">Mostrar:</label>
+            <select id="filtro-limite">
+                <option value="10" selected>10 partidos</option>
+                <option value="20">20 partidos</option>
+                <option value="50">50 partidos</option>
+                <option value="todos">Todos los partidos</option>
+            </select>
+        </div>
+    </div>
         
         <section id="contenedor-partidos" class="historial-partidos">
 

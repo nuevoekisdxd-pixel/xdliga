@@ -1528,5 +1528,14 @@
     "penales": false,
     "local": { "id": "EQ-001", "goles": 4 },
     "visitante": { "id": "EQ-008", "goles": 1 }
+  },
+  {
+    "id": "PART-171",
+    "temporada": "T1",
+    "competicion": "Copa Xd",
+    "fecha": "23/01/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 0 }
   }
 ]

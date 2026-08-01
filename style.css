@@ -342,3 +342,188 @@ h1 {
 .tabla-clasificacion tbody tr:hover {
     background-color: #f5f9f5;
 }
+
+.controles-historial {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    flex-wrap: wrap;
+}
+
+.control-grupo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.control-grupo label {
+    font-weight: 600;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+.control-grupo select {
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    font-size: 0.9rem;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.control-grupo select:focus {
+    border-color: #1e3a1e; /* El color verde de tu liga */
+}
+
+.bloque-estadisticas {
+    margin-top: 35px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.bloque-estadisticas h2 {
+    color: #1e3a1e;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 8px;
+}
+
+/* Rejilla para los bloques numéricos */
+.tarjeta-rendimiento-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 15px;
+}
+
+.item-metrica {
+    background: #fdfdfd;
+    border: 1px solid #eaeaea;
+    border-radius: 6px;
+    padding: 12px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item-metrica strong {
+    font-size: 0.75rem;
+    color: #777;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.item-metrica span {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #333;
+    margin: 4px 0;
+}
+
+.item-metrica label {
+    font-size: 0.75rem;
+    color: #999;
+}
+
+/* Colores para la diferencia de gol */
+.item-metrica span.pos { color: #2e7d32; }
+.item-metrica span.neg { color: #c62828; }
+
+/* Resaltar la caja de efectividad */
+.item-metrica.destacada {
+    background-color: #f4f8f4;
+    border-color: #c8e6c9;
+    grid-column: span 2; /* Ocupa el doble de espacio */
+}
+
+.item-metrica.destacada span {
+    color: #1e3a1e;
+}
+
+/* Ajuste responsivo para pantallas pequeñas */
+@media (max-width: 480px) {
+    .tarjeta-rendimiento-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .item-metrica.destacada {
+        grid-column: span 2;
+    }
+}
+
+.bloque-historial-propio {
+    margin-top: 40px;
+}
+
+.bloque-historial-propio h2 {
+    color: #1e3a1e;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 8px;
+}
+
+/* Bordes de color según el resultado del dueño de la ficha */
+.partido-tarjeta.partido-ganado {
+    border-left: 5px solid #2e7d32; /* Verde */
+}
+
+.partido-tarjeta.partido-perdido {
+    border-left: 5px solid #c62828; /* Rojo */
+}
+
+.partido-tarjeta.partido-empate {
+    border-left: 5px solid #9e9e9e; /* Gris */
+}
+
+.sin-partidos {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    padding: 20px;
+}
+
+.bloque-frente-a-frente {
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 3px dashed #eee;
+}
+
+.bloque-frente-a-frente h2 {
+    color: #1e3a1e;
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+}
+
+.control-rival {
+    margin-bottom: 20px;
+}
+
+.control-rival label {
+    font-weight: bold;
+    color: #444;
+    margin-right: 10px;
+}
+
+.control-rival select {
+    padding: 8px 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+#estadisticas-h2h h3 {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+}
