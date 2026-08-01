@@ -2,77 +2,77 @@
   {
     "id": "EQ-001",
     "nombre": "Parque Lezama",
-    "apodo": "Porteño",
+    "apodo": "Los Porteños",
     "fundacion": "T1",
     "estadio": "Papa Francisco",
-    "ubicacion": "Ciudad Furia",
-    "capacidad": 25000,
+    "ubicacion": "Nuevos Aires",
+    "capacidad": 67000,
     "division": "Xd Liga",
     "logo": "parque-lezama.png"
   },
   {
     "id": "EQ-002",
     "nombre": "Athletic Malta",
-    "apodo": "-",
+    "apodo": "El Isleño",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "Mgarr Stadium",
+    "ubicacion": "Isla Maltesa",
+    "capacidad": 89000,
     "division": "Xd Liga",
     "logo": "athletic-malta.png"
   },
   {
     "id": "EQ-003",
     "nombre": "Atlético San Cristóbal",
-    "apodo": "-",
+    "apodo": "Los Caribeños",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "Bahía Azul",
+    "ubicacion": "Costa Caribe",
+    "capacidad": 24000,
     "division": "Serie B",
     "logo": "atletico-san-cristobal.png"
   },
   {
     "id": "EQ-004",
     "nombre": "Guanacos FC",
-    "apodo": "-",
+    "apodo": "Los Salvadoreños",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "El Corralón",
+    "ubicacion": "San Juan",
+    "capacidad": 15000,
     "division": "Serie B",
     "logo": "guanacos-fc.png"
   },
   {
     "id": "EQ-005",
     "nombre": "Liverpool de Mapistán",
-    "apodo": "-",
+    "apodo": "El Gasolero",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "Borrosia Astana",
+    "ubicacion": "Mapistán",
+    "capacidad": 36000,
     "division": "Xd Liga",
     "logo": "liverpool-de-mapistan.png"
   },
   {
     "id": "EQ-006",
     "nombre": "Tres Ángulos Azules",
-    "apodo": "-",
+    "apodo": "El Tri",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "Tridente Azul",
+    "ubicacion": "Nuevos Aires",
+    "capacidad": 46000,
     "division": "Xd Liga",
     "logo": "tres-angulos-azules.png"
   },
   {
     "id": "EQ-007",
     "nombre": "Barca Lupus",
-    "apodo": "-",
+    "apodo": "El Lobo",
     "fundacion": "T1",
-    "estadio": "-",
-    "ubicacion": "-",
-    "capacidad": 0,
+    "estadio": "Monumental Canis",
+    "ubicacion": "San Juan",
+    "capacidad": 59000,
     "division": "Xd Liga",
     "logo": "barca-lupus.png"
   },
@@ -85,7 +85,7 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "default.png"
+    "logo": "estudiantes-unidos.png"
   },
   {
     "id": "EQ-009",
@@ -96,17 +96,72 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "default.png"
+    "logo": "deportivo-guamare.png"
   },
   {
     "id": "EQ-010",
     "nombre": "Ekisd Rangers",
+    "apodo": "Los Blanquinegros",
+    "fundacion": "T1",
+    "estadio": "Presidente Ekisd",
+    "ubicacion": "Mar de Plata",
+    "capacidad": 21000,
+    "division": "Xd Liga",
+    "logo": "ekisd-rangers.png"
+  },
+  {
+    "id": "EQ-011",
+    "nombre": "AFC Honduras",
     "apodo": "-",
     "fundacion": "T1",
     "estadio": "-",
     "ubicacion": "-",
     "capacidad": 0,
+    "division": "-",
+    "logo": "afc-honduras.png"
+  },
+  {
+    "id": "EQ-012",
+    "nombre": "CA Solanum",
+    "apodo": "El Sol",
+    "fundacion": "T1",
+    "estadio": "Estadio Patata Soleada",
+    "ubicacion": "Valle Soleado",
+    "capacidad": 32000,
     "division": "Xd Liga",
-    "logo": "ekisd-rangers.png"
+    "logo": "ca-solanum.png"
+  },
+  {
+    "id": "EQ-013",
+    "nombre": "RB Drako",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "-",
+    "logo": "rb-drako.png"
+  },
+  {
+    "id": "EQ-014",
+    "nombre": "JCB United",
+    "apodo": "El Gringo",
+    "fundacion": "T1",
+    "estadio": "San Diego Stadium",
+    "ubicacion": "New England",
+    "capacidad": 65000,
+    "division": "Xd Liga",
+    "logo": "jcb-united.png"
+  },
+  {
+    "id": "EQ-015",
+    "nombre": "Hierbas FC",
+    "apodo": "-",
+    "fundacion": "T1",
+    "estadio": "-",
+    "ubicacion": "-",
+    "capacidad": 0,
+    "division": "-",
+    "logo": "hierbas-fc.png"
   }
 ]

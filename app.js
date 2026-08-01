@@ -6,6 +6,26 @@ Promise.all([
 .then(([equipos, partidos]) => {
   const contenedor = document.getElementById('contenedor-partidos');
   
+  // ==========================================
+  // ORDENAR CRONOLÓGICAMENTE DE MANERA ESTRICTA
+  // ==========================================
+  partidos.sort((a, b) => {
+    // Convertimos las fechas "DD/MM/AAAA" a objetos Date reales para comparar
+    const [diaA, mesA, anioA] = a.fecha.split('/');
+    const [diaB, mesB, anioB] = b.fecha.split('/');
+    
+    // El formato Date de JavaScript usa (Año, Mes - 1, Día)
+    const fechaObjetoA = new Date(anioA, mesA - 1, diaA);
+    const fechaObjetoB = new Date(anioB, mesB - 1, diaB);
+    
+    // CRITERIO: Si quieres los más recientes primero, usa: fechaObjetoB - fechaObjetoA
+    // Si prefieres los más antiguos primero, usa: fechaObjetoA - fechaObjetoB
+    return fechaObjetoB - fechaObjetoA; 
+  });
+  // ==========================================
+
+  // Ahora el bucle forEach recorrerá los partidos perfectamente ordenados por fecha
+
   partidos.forEach(partido => {
     // BUSCADOR: Encontramos los datos completos del club usando su ID
     const datosLocal = equipos.find(e => e.id === partido.local.id);
