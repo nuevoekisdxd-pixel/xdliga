@@ -13,6 +13,7 @@ Promise.all([
       equipoId: equipo.id,
       nombre: equipo.nombre,
       logo: equipo.logo,
+      extinto: equipo.extinto, // ◄ Guardamos si está extinto en el mapa
       pj: 0, pg: 0, pe: 0, pp: 0,
       gf: 0, gc: 0, dg: 0, puntos: 0
     };
@@ -79,11 +80,17 @@ Promise.all([
   // 5. Renderizar las filas ordenadas en el HTML
   listaEstadisticas.forEach((fila, indice) => {
     const tr = document.createElement('tr');
+    
+    // ◄ VALIDACIÓN DE ENLACE O TEXTO PLANO SEGÚN CORRESPONDA ►
+    const nombreCelda = fila.extinto === 1 
+      ? `<span class="nombre-extinto-tabla">${fila.nombre} (Extinto)</span>` 
+      : `<a href="detalle.html?id=${fila.equipoId}" class="enlace-tabla-equipo">${fila.nombre}</a>`;
+
     tr.innerHTML = `
       <td class="posicion">${indice + 1}</td>
       <td class="alinear-izquierda columna-equipo">
           <img src="logos/${fila.logo}" alt="Logo" class="logo-tabla">
-          <span>${fila.nombre}</span>
+          ${nombreCelda}
       </td>
       <td>${fila.pj}</td>
       <td>${fila.pg}</td>

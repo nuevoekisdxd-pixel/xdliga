@@ -8,7 +8,8 @@
     "ubicacion": "Nuevos Aires",
     "capacidad": 67000,
     "division": "Xd Liga",
-    "logo": "parque-lezama.png"
+    "logo": "parque-lezama.png",
+    "extinto": 0
   },
   {
     "id": "EQ-002",
@@ -19,7 +20,8 @@
     "ubicacion": "Isla Maltesa",
     "capacidad": 89000,
     "division": "Xd Liga",
-    "logo": "athletic-malta.png"
+    "logo": "athletic-malta.png",
+    "extinto": 0
   },
   {
     "id": "EQ-003",
@@ -30,7 +32,8 @@
     "ubicacion": "Costa Caribe",
     "capacidad": 24000,
     "division": "Serie B",
-    "logo": "atletico-san-cristobal.png"
+    "logo": "atletico-san-cristobal.png",
+    "extinto": 0
   },
   {
     "id": "EQ-004",
@@ -41,7 +44,8 @@
     "ubicacion": "San Juan",
     "capacidad": 15000,
     "division": "Serie B",
-    "logo": "guanacos-fc.png"
+    "logo": "guanacos-fc.png",
+    "extinto": 0
   },
   {
     "id": "EQ-005",
@@ -52,7 +56,8 @@
     "ubicacion": "Mapistán",
     "capacidad": 36000,
     "division": "Xd Liga",
-    "logo": "liverpool-de-mapistan.png"
+    "logo": "liverpool-de-mapistan.png",
+    "extinto": 0
   },
   {
     "id": "EQ-006",
@@ -63,7 +68,8 @@
     "ubicacion": "Nuevos Aires",
     "capacidad": 46000,
     "division": "Xd Liga",
-    "logo": "tres-angulos-azules.png"
+    "logo": "tres-angulos-azules.png",
+    "extinto": 0
   },
   {
     "id": "EQ-007",
@@ -74,7 +80,8 @@
     "ubicacion": "San Juan",
     "capacidad": 59000,
     "division": "Xd Liga",
-    "logo": "barca-lupus.png"
+    "logo": "barca-lupus.png",
+    "extinto": 0
   },
   {
     "id": "EQ-008",
@@ -85,7 +92,8 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "estudiantes-unidos.png"
+    "logo": "estudiantes-unidos.png",
+    "extinto": 1
   },
   {
     "id": "EQ-009",
@@ -96,7 +104,8 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "deportivo-guamare.png"
+    "logo": "deportivo-guamare.png",
+    "extinto": 1
   },
   {
     "id": "EQ-010",
@@ -107,7 +116,8 @@
     "ubicacion": "Mar de Plata",
     "capacidad": 21000,
     "division": "Xd Liga",
-    "logo": "ekisd-rangers.png"
+    "logo": "ekisd-rangers.png",
+    "extinto": 0
   },
   {
     "id": "EQ-011",
@@ -118,7 +128,8 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "afc-honduras.png"
+    "logo": "afc-honduras.png",
+    "extinto": 1
   },
   {
     "id": "EQ-012",
@@ -129,7 +140,8 @@
     "ubicacion": "Valle Soleado",
     "capacidad": 32000,
     "division": "Xd Liga",
-    "logo": "ca-solanum.png"
+    "logo": "ca-solanum.png",
+    "extinto": 0
   },
   {
     "id": "EQ-013",
@@ -140,7 +152,8 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "rb-drako.png"
+    "logo": "rb-drako.png",
+    "extinto": 1
   },
   {
     "id": "EQ-014",
@@ -151,7 +164,8 @@
     "ubicacion": "New England",
     "capacidad": 65000,
     "division": "Xd Liga",
-    "logo": "jcb-united.png"
+    "logo": "jcb-united.png",
+    "extinto": 0
   },
   {
     "id": "EQ-015",
@@ -162,6 +176,7 @@
     "ubicacion": "-",
     "capacidad": 0,
     "division": "-",
-    "logo": "hierbas-fc.png"
+    "logo": "hierbas-fc.png",
+    "extinto": 1
   }
 ]

@@ -10,31 +10,40 @@ h1 {
 }
 
 .menu-principal ul {
-    list-style-type: none; /* Quita los puntitos de la lista */
+    list-style-type: none; 
     padding: 0;
     margin: 0;
-    background-color: #333; /* Fondo oscuro para el menú */
-    display: flex; /* Alinea los elementos en fila */
-    justify-content: center; /* Centra el menú en la pantalla */
+    /* Quitamos el background-color y el justify-content: center de aquí */
+    display: flex; 
+    margin: 0 auto;
 }
 
-.menu-principal li {
+.menu-principal ul li {
     margin: 0;
 }
 
-.menu-principal a {
+/* Modificamos el selector para que aplique SOLO a los enlaces del menú de texto */
+.menu-principal ul li a {
     display: block;
     color: white; /* Texto blanco */
     text-align: center;
-    padding: 14px 20px;
-    text-decoration: none; /* Quita el subrayado de los enlaces */
+    padding: 14px 20px; /* Mantiene el área de clic alta y cómoda */
+    text-decoration: none; /* Quita el subrayado */
     font-weight: bold;
     transition: background-color 0.3s;
 }
 
-/* Cambia de color cuando pasas el cursor por encima */
-.menu-principal a:hover {
+/* Aplica el efecto de cambio de color SOLO a los botones de texto */
+.menu-principal ul li a:hover {
     background-color: #555; 
+    border-radius: 4px; /* Opcional: le da esquinas curvas suaves al fondo gris al pasar el cursor */
+}
+
+/* Estilo limpio para el contenedor del logo (evita que herede los estilos anteriores) */
+.menu-principal .enlace-logo {
+    display: block;
+    padding: 5px 0; /* Un pequeño colchón vertical para el logo */
+    background: none !important; /* Garantiza que el logo no se pinte de gris */
 }
 
 .contenido {
@@ -526,4 +535,133 @@ h1 {
     font-size: 1rem;
     color: #555;
     margin-bottom: 15px;
+}
+
+.seccion-historial-modulo {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+
+.seccion-historial-modulo h2 {
+    color: #1e3a1e;
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 6px;
+}
+
+.bloque-separador {
+    margin-top: 40px;
+    border-top: 4px double #eee;
+    padding-top: 30px;
+}
+
+.control-filtros-mixtos {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    background: #fdfdfd;
+    padding: 12px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+/* Etiqueta roja elegante para la palabra Extinto */
+.etiqueta-extinto {
+    background-color: #721c24;
+    color: #f8d7da;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    display: inline-block;
+}
+
+/* Estilo para el botón gris que reemplaza al de ver ficha */
+.boton-deshabilitado {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #e2e3e5;
+    color: #383d41;
+    border: 1px solid #d6d8db;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-style: italic;
+    cursor: not-allowed;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Contenedor del pie de página */
+.pie-pagina {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+    padding: 40px 0;         /* Espaciado arriba y abajo del logo */
+    margin-top: 50px;        /* Separación con el contenido de la página */
+    width: 100%;
+    clear: both;             /* Evita problemas si usas elementos flotantes */
+}
+
+/* Propiedades del logotipo de la liga */
+.logo-liga-pie {
+    max-width: 120px;        /* Controla el ancho máximo para que no se vea gigante */
+    height: auto;            /* Mantiene la proporción original de la imagen */
+    opacity: 0.75;           /* Opacidad sutil (opcional) para que se integre mejor */
+    transition: opacity 0.3s ease;
+}
+
+/* Efecto visual al pasar el mouse por encima */
+.logo-liga-pie:hover {
+    opacity: 1;
+}
+
+/* El fondo oscuro (#333) ahora envuelve todo el bloque del encabezado */
+.menu-principal {
+    background-color: #333; 
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Contenedor flex para alinear el logo y la lista en la misma línea */
+.barra-navegacion-interna {
+    max-width: 1200px; /* Limita el ancho en pantallas muy grandes */
+    margin: 0 auto;    /* Centra el contenedor en la pantalla */
+    display: flex;
+    justify-content: space-between; /* Logo a la izquierda, menú a la derecha */
+    align-items: center;            /* Alineación vertical perfecta */
+    flex-wrap: wrap;                /* Permite que se adapte si la pantalla es chica */
+}
+
+/* Tamaño del logotipo del encabezado */
+.logo-liga-encabezado {
+    height: 40px; /* Altura sutil y elegante para que la barra no sea muy alta */
+    width: auto;  /* Mantiene la proporción de tu PNG */
+    display: block;
+    transition: transform 0.2s ease;
+}
+
+.logo-liga-encabezado:hover {
+    transform: scale(1.05);
+}
+
+.enlace-tabla-equipo {
+    color: inherit; /* Mantiene el color del texto de tu tabla */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.enlace-tabla-equipo:hover {
+    text-decoration: underline; /* Solo se subraya al pasar el cursor */
+    color: #0056b3; /* O el color destacado que prefieras para tu web */
+}
+
+.nombre-extinto-tabla {
+    color: #888;
+    font-style: italic;
 }

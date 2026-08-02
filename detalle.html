@@ -8,13 +8,21 @@
 </head>
 <body>
     <nav class="menu-principal">
-        <ul>
-            <li><a href="equipos.html">Equipos</a></li>
-            <li><a href="mapa.html">Mapa</a></li>
-            <li><a href="historial.html">Historial de partidos</a></li>
-            <li><a href="tabla-historica.html">Tablas históricas</a></li>
-            <li><a href="acerca.html">Acerca de nosotros</a></li>
-        </ul>
+        <div class="barra-navegacion-interna">
+            <!-- Logotipo a la izquierda -->
+            <a href="index.html" class="enlace-logo">
+                <img src="logos/xd-liga.png" alt="Logotipo Oficial de la Liga" class="logo-liga-encabezado">
+            </a>
+
+            <!-- Tu menú original en lista -->
+            <ul>
+                <li><a href="equipos.html">Equipos</a></li>
+                <li><a href="mapa.html">Mapa</a></li>
+                <li><a href="historial.html">Historial de partidos</a></li>
+                <li><a href="tabla-historica.html">Tablas históricas</a></li>
+                <li><a href="acerca.html">Acerca de nosotros</a></li>
+            </ul>
+        </div>
     </nav>
 
     <main class="contenido-perfil" id="perfil-cargar">
@@ -28,109 +36,24 @@
         <div id="contenedor-estadisticas" class="bloque-estadisticas">
             <!-- JavaScript inyectará el resumen de rendimiento aquí -->
         </div>
-
-        <div class="bloque-historial-propio">
-            <h2>Historial de Partidos del Club</h2>
-            
-            <!-- Controles dinámicos exclusivos de la ficha -->
-            <div class="controles-historial">
-                <div class="control-grupo">
-                    <label for="filtro-orden-propio">Orden:</label>
-                    <select id="filtro-orden-propio">
-                        <option value="recientes" selected>Más recientes primero</option>
-                        <option value="antiguos">Más antiguos primero</option>
-                    </select>
-                </div>
-
-                <div class="control-grupo">
-                    <label for="filtro-limite-propio">Mostrar:</label>
-                    <select id="filtro-limite-propio">
-                        <option value="5" selected>5 partidos</option>
-                        <option value="10">10 partidos</option>
-                        <option value="20">20 partidos</option>
-                        <option value="todos">Todos</option>
-                    </select>
-                </div>
-            </div>
-
-            <!-- Contenedor donde se inyectarán las tarjetas de sus partidos -->
-            <section id="contenedor-partidos-propio" class="lista-partidos"></section>
-        </div>
-
-        <!-- ======================================================== -->
-        <!-- NUEVO: SECCIÓN ENFRENTAMIENTOS DIRECTOS (FRENTE A FRENTE)-->
-        <!-- ======================================================== -->
-        <div class="bloque-frente-a-frente">
-            <h2>Historial contra otro equipo</h2>
-            
-            <!-- Selector de rival -->
-            <div class="control-rival">
-                <label for="selector-rival">Selecciona un rival:</label>
-                <select id="selector-rival">
-                    <option value="">-- Elige un equipo --</option>
-                    <!-- JavaScript cargará el resto de clubes aquí -->
-                </select>
-            </div>
-
-            <!-- Panel de estadísticas H2H (Oculto inicialmente hasta elegir rival) -->
-            <div id="estadisticas-h2h" class="bloque-estadisticas" style="display: none; margin-top: 20px;">
-                <!-- JavaScript inyectará el resumen frente a frente aquí -->
-            </div>
-
-            <!-- Controles y lista de partidos H2H (Ocultos inicialmente) -->
-            <div id="bloque-partidos-h2h" style="display: none; margin-top: 20px;">
-                <div class="controles-historial">
-                    <div class="control-grupo">
-                        <label for="filtro-orden-h2h">Orden:</label>
-                        <select id="filtro-orden-h2h">
-                            <option value="recientes" selected>Más recientes primero</option>
-                            <option value="antiguos">Más antiguos primero</option>
-                        </select>
-                    </div>
-
-                    <div class="control-grupo">
-                        <label for="filtro-limite-h2h">Mostrar:</label>
-                        <select id="filtro-limite-h2h">
-                            <option value="5" selected>5 partidos</option>
-                            <option value="10">10 partidos</option>
-                            <option value="20">20 partidos</option>
-                            <option value="todos">Todos</option>
-                        </select>
-                    </div>
-                </div>
-
-                <!-- Contenedor de las tarjetas de partidos H2H -->
-                <section id="contenedor-partidos-h2h" class="lista-partidos"></section>
-            </div>
-        </div>
     </main>
 
-    <!-- Script que detecta qué equipo abrir -->
     <script>
         const parametrosURL = new URLSearchParams(window.location.search);
         const equipoId = parametrosURL.get('id');
-
-        // Variables globales de la ficha
-        let todosLosEquipos = [];
-        let todosLosPartidos = []; // Cambiado el nombre para claridad global
-        let partidosDelClub = [];
-        let partidosH2H = []; // Partidos específicos contra el rival seleccionado
 
         Promise.all([
           fetch('equipos.json').then(res => res.json()),
           fetch('partidos.json').then(res => res.json())
         ])
         .then(([equipos, partidos]) => {
-          todosLosEquipos = equipos;
-          todosLosPartidos = partidos;
-          
           const club = equipos.find(e => e.id === equipoId);
           if (!club) {
             document.body.innerHTML = "<h1>Equipo no encontrado</h1>";
             return;
           }
 
-          // 1. RENDERIZAR INFORMACIÓN PRINCIPAL
+          // 1. RENDERIZAR INFORMACIÓN PRINCIPAL DEL CLUB
           const contenedorPerfil = document.getElementById('contenedor-perfil');
           contenedorPerfil.innerHTML = `
               <img src="logos/${club.logo}" alt="Logo" class="logo-grande">
@@ -145,7 +68,7 @@
               </table>
           `;
 
-          // 2. CALCULAR ESTADÍSTICAS HISTÓRICAS GENERALES
+          // 2. CALCULAR RENDIMIENTO HISTÓRICO GENERAL
           let pj = 0, pg = 0, pe = 0, pp = 0, gf = 0, gc = 0, puntos = 0;
 
           partidos.forEach(partido => {
@@ -177,9 +100,10 @@
           const puntosPosibles = pj * 3;
           const efectividad = puntosPosibles > 0 ? ((puntos / puntosPosibles) * 100).toFixed(1) : "0.0";
 
+          // 3. RENDERIZAR TABLA DE METRICAS EN EL PANEL
           const contenedorEstadisticas = document.getElementById('contenedor-estadisticas');
           contenedorEstadisticas.innerHTML = `
-              <h2>Rendimiento Histórico</h2>
+              <h2>Rendimiento Histórico General</h2>
               <div class="tarjeta-rendimiento-grid">
                   <div class="item-metrica"><strong>PJ</strong><span>${pj}</span><label>Jugados</label></div>
                   <div class="item-metrica"><strong>PG</strong><span>${pg}</span><label>Ganados</label></div>
@@ -191,234 +115,13 @@
                   <div class="item-metrica destacada"><strong>EFECTIVIDAD</strong><span>${efectividad}%</span><label>${puntos} pts de ${puntosPosibles}</label></div>
               </div>
           `;
-          
-          // ========================================================
-          // HISTORIAL PROPIO DEL CLUB
-          // ========================================================
-          partidosDelClub = partidos.filter(p => p.local.id === equipoId || p.visitante.id === equipoId);
-
-          document.getElementById('filtro-orden-propio').addEventListener('change', mostrarHistorialPropio);
-          document.getElementById('filtro-limite-propio').addEventListener('change', mostrarHistorialPropio);
-
-          mostrarHistorialPropio();
-
-          // ========================================================
-          // NUEVO: POBLAR SELECTOR DE RIVALES Y CONFIGURAR H2H
-          // ========================================================
-          const selectorRival = document.getElementById('selector-rival');
-          equipos.forEach(e => {
-              if (e.id !== equipoId) { // Evitar que se elija a sí mismo
-                  const option = document.createElement('option');
-                  option.value = e.id;
-                  option.textContent = e.nombre;
-                  selectorRival.appendChild(option);
-              }
-          });
-
-          // Escuchar cambios en la sección H2H
-          selectorRival.addEventListener('change', manejarCambioRival);
-          document.getElementById('filtro-orden-h2h').addEventListener('change', mostrarHistorialH2H);
-          document.getElementById('filtro-limite-h2h').addEventListener('change', mostrarHistorialH2H);
         })
         .catch(error => console.error("Error al generar la ficha técnica:", error));
-
-
-        // Función para procesar, ordenar, recortar y renderizar los partidos del club
-        function mostrarHistorialPropio() {
-          const contenedor = document.getElementById('contenedor-partidos-propio');
-          contenedor.innerHTML = ''; 
-
-          const orden = document.getElementById('filtro-orden-propio').value;
-          const limite = document.getElementById('filtro-limite-propio').value;
-
-          let partidosProcesados = [...partidosDelClub];
-
-          partidosProcesados.sort((a, b) => {
-            const [diaA, mesA, anioA] = a.fecha.split('/');
-            const [diaB, mesB, anioB] = b.fecha.split('/');
-            const fechaA = new Date(anioA, mesA - 1, diaA);
-            const fechaB = new Date(anioB, mesB - 1, diaB);
-            return orden === 'recientes' ? fechaB - fechaA : fechaA - fechaB;
-          });
-
-          if (limite !== 'todos') {
-            partidosProcesados = partidosProcesados.slice(0, parseInt(limite, 10));
-          }
-
-          if (partidosProcesados.length === 0) {
-            contenedor.innerHTML = '<p class="sin-partidos">Este club aún no ha disputado partidos en el historial.</p>';
-            return;
-          }
-
-          partidosProcesados.forEach(partido => {
-            dibujarTarjetaPartido(partido, contenedor);
-          });
-        }
-
-        // ========================================================
-        // NUEVAS FUNCIÓNES MÓDULO FRENTE A FRENTE (H2H)
-        // ========================================================
-        function manejarCambioRival() {
-            const rivalId = document.getElementById('selector-rival').value;
-            const panelStats = document.getElementById('estadisticas-h2h');
-            const panelPartidos = document.getElementById('bloque-partidos-h2h');
-
-            if (!rivalId) {
-                panelStats.style.display = 'none';
-                panelPartidos.style.display = 'none';
-                return;
-            }
-
-            // Filtrar enfrentamientos directos usando las variables globales
-            partidosH2H = todosLosPartidos.filter(p => 
-                (p.local.id === equipoId && p.visitante.id === rivalId) || 
-                (p.local.id === rivalId && p.visitante.id === equipoId)
-            );
-
-            // Calcular estadísticas métricas del cara a cara
-            let pj = 0, pg = 0, pe = 0, pp = 0, gf = 0, gc = 0;
-
-            partidosH2H.forEach(partido => {
-                pj += 1;
-                const esLocal = partido.local.id === equipoId;
-                const golesLocales = partido.local.goles;
-                const golesVisitantes = partido.visitante.goles;
-
-                if (esLocal) {
-                    gf += golesLocales;
-                    gc += golesVisitantes;
-                    if (golesLocales > golesVisitantes) pg += 1;
-                    else if (golesLocales < golesVisitantes) pp += 1;
-                    else pe += 1;
-                } else {
-                    gf += golesVisitantes;
-                    gc += golesLocales;
-                    if (golesVisitantes > golesLocales) pg += 1;
-                    else if (golesVisitantes < golesLocales) pp += 1;
-                    else pe += 1;
-                }
-            });
-
-            const dg = gf - gc;
-
-            // Renderizar el mini-panel H2H
-            panelStats.innerHTML = `
-                <h3>Historial Acumulado Cara a Cara</h3>
-                <div class="tarjeta-rendimiento-grid">
-                    <div class="item-metrica"><strong>PJ</strong><span>${pj}</span><label>Jugados</label></div>
-                    <div class="item-metrica"><strong>PG</strong><span>${pg}</span><label>Ganados</label></div>
-                    <div class="item-metrica"><strong>PE</strong><span>${pe}</span><label>Empatados</label></div>
-                    <div class="item-metrica"><strong>PP</strong><span>${pp}</span><label>Perdidos</label></div>
-                    <div class="item-metrica"><strong>GF</strong><span>${gf}</span><label>A Favor</label></div>
-                    <div class="item-metrica"><strong>GC</strong><span>${gc}</span><label>En Contra</label></div>
-                    <div class="item-metrica"><strong>DG</strong><span class="${dg > 0 ? 'pos' : dg < 0 ? 'neg' : ''}">${dg > 0 ? '+' + dg : dg}</span><label>Diferencia</label></div>
-                </div>
-            `;
-
-            panelStats.style.display = 'block';
-            panelPartidos.style.display = 'block';
-
-            // Cargar partidos H2H con filtros aplicados
-            mostrarHistorialH2H();
-        }
-
-        function mostrarHistorialH2H() {
-            const contenedor = document.getElementById('contenedor-partidos-h2h');
-            contenedor.innerHTML = '';
-
-            const orden = document.getElementById('filtro-orden-h2h').value;
-            const limite = document.getElementById('filtro-limite-h2h').value;
-
-            let partidosProcesados = [...partidosH2H];
-
-            // Ordenar por fecha
-            partidosProcesados.sort((a, b) => {
-                const [diaA, mesA, anioA] = a.fecha.split('/');
-                const [diaB, mesB, anioB] = b.fecha.split('/');
-                const fechaA = new Date(anioA, mesA - 1, diaA);
-                const fechaB = new Date(anioB, mesB - 1, diaB);
-                return orden === 'recientes' ? fechaB - fechaA : fechaA - fechaB;
-            });
-
-            // Recortar límite
-            if (limite !== 'todos') {
-                partidosProcesados = partidosProcesados.slice(0, parseInt(limite, 10));
-            }
-
-            if (partidosProcesados.length === 0) {
-                contenedor.innerHTML = '<p class="sin-partidos">No se registran enfrentamientos oficiales entre ambos clubes.</p>';
-                return;
-            }
-
-            partidosProcesados.forEach(partido => {
-                dibujarTarjetaPartido(partido, contenedor);
-            });
-        }
-
-        // FUNCIÓN AUXILIAR REUTILIZABLE: Dibuja tarjetas y calcula el color de los bordes del resultado
-        function dibujarTarjetaPartido(partido, contenedorDestino) {
-            const datosLocal = todosLosEquipos.find(e => e.id === partido.local.id);
-            const datosVisitante = todosLosEquipos.find(e => e.id === partido.visitante.id);
-
-            const nombreLocal = datosLocal ? datosLocal.nombre : "Equipo Desconocido";
-            const logoLocal = datosLocal ? datosLocal.logo : "defecto.png";
-            const nombreVisitante = datosVisitante ? datosVisitante.nombre : "Equipo Desconocido";
-            const logoVisitante = datosVisitante ? datosVisitante.logo : "defecto.png";
-
-            let bloquePenales = '';
-            if (partido.penales) {
-              bloquePenales = `
-                <div class="tanda-penales-bloque">
-                    <span class="etiqueta-penales">Definición por penales</span>
-                    <div class="resultado-penales">
-                        <span class="penales-local">(${partido.local.penalesAnotados})</span>
-                        <span class="penales-separador">p.</span>
-                        <span class="penales-visitante">(${partido.visitante.penalesAnotados})</span>
-                    </div>
-                </div>`;
-            }
-
-            const tarjeta = document.createElement('article');
-            tarjeta.className = 'partido-tarjeta';
-            
-            let claseResultado = 'partido-empate';
-            if (partido.local.goles !== partido.visitante.goles) {
-              const ganoLocal = partido.local.goles > partido.visitante.goles;
-              const esElLocal = partido.local.id === equipoId;
-              
-              if ((ganoLocal && esElLocal) || (!ganoLocal && !esElLocal)) {
-                claseResultado = 'partido-ganado';
-              } else {
-                claseResultado = 'partido-perdido';
-              }
-            }
-            tarjeta.classList.add(claseResultado);
-
-            tarjeta.innerHTML = `
-              <div class="partido-info-superior">
-                  <span class="temporada">${partido.temporada}</span>
-                  <span class="competicion">${partido.competicion}</span>
-                  <span class="fecha">Fecha: ${partido.fecha}</span>
-              </div>
-              <div class="marcador-bloque">
-                  <div class="equipo-marcador local">
-                      <img src="logos/${logoLocal}" alt="Logo" class="logo-partido">
-                      <span class="equipo-nombre">${nombreLocal}</span>
-                  </div>
-                  <div class="resultado-numeros">
-                      <span class="goles-local">${partido.local.goles}</span>
-                      <span class="separador">-</span>
-                      <span class="goles-visitante">${partido.visitante.goles}</span>
-                  </div>
-                  <div class="equipo-marcador visitante">
-                      <span class="equipo-nombre">${nombreVisitante}</span>
-                      <img src="logos/${logoVisitante}" alt="Logo" class="logo-partido">
-                  </div>
-              </div>
-              ${bloquePenales}
-            `;
-            contenedorDestino.appendChild(tarjeta);
-        }
     </script>
+
+    <footer class="pie-pagina">
+        <img src="logos/xd-liga.png" alt="Logotipo Oficial de la Liga" class="logo-liga-pie">
+    </footer>
+
 </body>
 </html>
