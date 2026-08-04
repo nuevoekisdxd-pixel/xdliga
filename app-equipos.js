@@ -6,12 +6,14 @@ fetch('equipos.json')
     equipos.forEach(equipo => {
       const tarjeta = document.createElement('article');
       tarjeta.className = 'tarjeta-equipo-resumen';
-      tarjeta.setAttribute('data-id', equipo.id); // Mantiene el ID oculto internamente
+      tarjeta.setAttribute('data-id', equipo.id);
       
-      // 1. Si está extinto muestra "Extinto", de lo contrario muestra su división
-      const divisionTexto = equipo.extinto === 1 ? 'Extinto' : equipo.division;
+      // 1. Si está extinto solo muestra "Extinto", si no, muestra "División: [Nombre]"
+      const divisionTexto = equipo.extinto === 1 
+        ? '<span class="etiqueta-extinto">Extinto</span>' 
+        : `División: ${equipo.division}`;
       
-      // 2. Si está extinto no muestra el botón para ir al detalle (o muestra un texto informativo)
+      // 2. Botón o etiqueta de disuelto
       const botonFicha = equipo.extinto === 1 
         ? '<span class="boton-deshabilitado">Club Disuelto</span>' 
         : `<a href="detalle.html?id=${equipo.id}" class="boton-ver">Ver Ficha Completa</a>`;
@@ -20,7 +22,7 @@ fetch('equipos.json')
         <img src="logos/${equipo.logo}" alt="Logo" class="logo-pequeno">
         <div class="info-resumen">
             <h2>${equipo.nombre}</h2>
-            <p>División: ${divisionTexto}</p>
+            <p>${divisionTexto}</p> 
         </div>
         ${botonFicha}
       `;

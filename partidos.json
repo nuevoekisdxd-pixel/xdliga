@@ -1537,5 +1537,4171 @@
     "penales": false,
     "local": { "id": "EQ-001", "goles": 3 },
     "visitante": { "id": "EQ-004", "goles": 0 }
+  },
+  {
+    "id": "PART-172",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-010", "goles": 2 }
+  },
+  {
+    "id": "PART-173",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-017", "goles": 2 }
+  },
+  {
+    "id": "PART-174",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-175",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-176",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-005", "goles": 0 }
+  },
+  {
+    "id": "PART-177",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 4 },
+    "visitante": { "id": "EQ-019", "goles": 0 }
+  },
+  {
+    "id": "PART-178",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 0 },
+    "visitante": { "id": "EQ-015", "goles": 3 }
+  },
+  {
+    "id": "PART-179",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 0 }
+  },
+  {
+    "id": "PART-180",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-021", "goles": 2 }
+  },
+  {
+    "id": "PART-181",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-025", "goles": 2 }
+  },
+  {
+    "id": "PART-182",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-183",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "17/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-184",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 3 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-185",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 0 }
+  },
+  {
+    "id": "PART-186",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 1 },
+    "visitante": { "id": "EQ-009", "goles": 1 }
+  },
+  {
+    "id": "PART-187",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 0 },
+    "visitante": { "id": "EQ-019", "goles": 0 }
+  },
+  {
+    "id": "PART-188",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-003", "goles": 0 }
+  },
+  {
+    "id": "PART-189",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-190",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-021", "goles": 1 }
+  },
+  {
+    "id": "PART-191",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 2 },
+    "visitante": { "id": "EQ-020", "goles": 0 }
+  },
+  {
+    "id": "PART-192",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 0 },
+    "visitante": { "id": "EQ-007", "goles": 1 }
+  },
+  {
+    "id": "PART-193",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 1 },
+    "visitante": { "id": "EQ-023", "goles": 1 }
+  },
+  {
+    "id": "PART-194",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 0 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-195",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "18/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 4 },
+    "visitante": { "id": "EQ-006", "goles": 2 }
+  },
+  {
+    "id": "PART-196",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 5 }
+  },
+  {
+    "id": "PART-197",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 0 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-198",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 2 }
+  },
+  {
+    "id": "PART-199",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 1 }
+  },
+  {
+    "id": "PART-200",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-201",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 2 }
+  },
+  {
+    "id": "PART-202",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-015", "goles": 0 }
+  },
+  {
+    "id": "PART-203",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 4 },
+    "visitante": { "id": "EQ-002", "goles": 0 }
+  },
+  {
+    "id": "PART-204",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 3 },
+    "visitante": { "id": "EQ-012", "goles": 2 }
+  },
+  {
+    "id": "PART-205",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 0 },
+    "visitante": { "id": "EQ-025", "goles": 2 }
+  },
+  {
+    "id": "PART-206",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-207",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 1 }
+  },{
+    "id": "PART-208",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 5 }
+  },
+  {
+    "id": "PART-209",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 0 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-210",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 2 }
+  },
+  {
+    "id": "PART-211",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 1 }
+  },
+  {
+    "id": "PART-212",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-213",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 2 }
+  },
+  {
+    "id": "PART-214",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-015", "goles": 0 }
+  },
+  {
+    "id": "PART-215",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 4 },
+    "visitante": { "id": "EQ-002", "goles": 0 }
+  },
+  {
+    "id": "PART-216",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 3 },
+    "visitante": { "id": "EQ-012", "goles": 2 }
+  },
+  {
+    "id": "PART-217",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 0 },
+    "visitante": { "id": "EQ-025", "goles": 2 }
+  },
+  {
+    "id": "PART-218",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-219",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "19/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 1 }
+  },
+  {
+    "id": "PART-220",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 0 },
+    "visitante": { "id": "EQ-010", "goles": 2 }
+  },
+  {
+    "id": "PART-221",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 1 },
+    "visitante": { "id": "EQ-009", "goles": 3 }
+  },
+  {
+    "id": "PART-222",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 1 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-223",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 1 }
+  },
+  {
+    "id": "PART-224",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-225",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 3 },
+    "visitante": { "id": "EQ-011", "goles": 0 }
+  },
+  {
+    "id": "PART-226",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 2 },
+    "visitante": { "id": "EQ-015", "goles": 0 }
+  },
+  {
+    "id": "PART-227",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 1 },
+    "visitante": { "id": "EQ-007", "goles": 3 }
+  },
+  {
+    "id": "PART-228",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 2 }
+  },
+  {
+    "id": "PART-229",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 0 }
+  },
+  {
+    "id": "PART-230",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 0 },
+    "visitante": { "id": "EQ-006", "goles": 2 }
+  },
+  {
+    "id": "PART-231",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "21/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 1 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-232",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "22/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 2 }
+  },
+  {
+    "id": "PART-233",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "22/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-018", "goles": 2, "penalesAnotados": 3 },
+    "visitante": { "id": "EQ-001", "goles": 2, "penalesAnotados": 4 }
+  },
+  {
+    "id": "PART-234",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "22/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-024", "goles": 0 }
+  },
+  {
+    "id": "PART-235",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "22/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-021", "goles": 0, "penalesAnotados": 3 },
+    "visitante": { "id": "EQ-008", "goles": 0, "penalesAnotados": 0 }
+  },
+  {
+    "id": "PART-236",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "23/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 0 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-237",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "23/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 5 },
+    "visitante": { "id": "EQ-010", "goles": 4 }
+  },
+  {
+    "id": "PART-238",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "23/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-005", "goles": 3, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-007", "goles": 3, "penalesAnotados": 3 }
+  },
+  {
+    "id": "PART-239",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "23/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-021", "goles": 1, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-011", "goles": 1, "penalesAnotados": 5 }
+  },
+  {
+    "id": "PART-240",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "24/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-022", "goles": 0, "penalesAnotados": 5 },
+    "visitante": { "id": "EQ-001", "goles": 0, "penalesAnotados": 4 }
+  },
+  {
+    "id": "PART-241",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "24/02/2025",
+    "penales": true,
+    "local": { "id": "EQ-005", "goles": 1, "penalesAnotados": 3 },
+    "visitante": { "id": "EQ-011", "goles": 1, "penalesAnotados": 4 }
+  },
+  {
+    "id": "PART-242",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "25/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-243",
+    "temporada": "T2",
+    "competicion": "Torneo de Verano",
+    "fecha": "25/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-244",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 2 }
+  },
+  {
+    "id": "PART-245",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-006", "goles": 0 }
+  },
+  {
+    "id": "PART-246",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 0 }
+  },
+  {
+    "id": "PART-247",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 0 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-248",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-249",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 1 }
+  },
+  {
+    "id": "PART-250",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 2 }
+  },
+  {
+    "id": "PART-251",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-007", "goles": 3 }
+  },
+  {
+    "id": "PART-252",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-253",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 3 },
+    "visitante": { "id": "EQ-003", "goles": 2 }
+  },
+  {
+    "id": "PART-254",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 1 }
+  },
+  {
+    "id": "PART-255",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 3 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-256",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-013", "goles": 0 }
+  },
+  {
+    "id": "PART-257",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-008", "goles": 1 }
+  },
+  {
+    "id": "PART-258",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 4 },
+    "visitante": { "id": "EQ-006", "goles": 2 }
+  },
+  {
+    "id": "PART-259",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 2 },
+    "visitante": { "id": "EQ-010", "goles": 0 }
+  },
+  {
+    "id": "PART-260",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-005", "goles": 2 }
+  },
+  {
+    "id": "PART-261",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-262",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-263",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-012", "goles": 0 }
+  },
+  {
+    "id": "PART-264",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 1 }
+  },
+  {
+    "id": "PART-265",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-266",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-267",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 5 },
+    "visitante": { "id": "EQ-002", "goles": 5 }
+  },
+  {
+    "id": "PART-268",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-269",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-270",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-271",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 0 },
+    "visitante": { "id": "EQ-006", "goles": 6 }
+  },
+  {
+    "id": "PART-272",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 5 },
+    "visitante": { "id": "EQ-010", "goles": 0 }
+  },
+  {
+    "id": "PART-273",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-005", "goles": 3 }
+  },
+  {
+    "id": "PART-274",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 3 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-275",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-276",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 2 },
+    "visitante": { "id": "EQ-012", "goles": 1 }
+  },
+  {
+    "id": "PART-277",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 3 }
+  },
+  {
+    "id": "PART-278",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 0 }
+  },
+  {
+    "id": "PART-279",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-003", "goles": 0 }
+  },
+  {
+    "id": "PART-280",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 2 },
+    "visitante": { "id": "EQ-013", "goles": 3 }
+  },
+  {
+    "id": "PART-281",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 2 },
+    "visitante": { "id": "EQ-002", "goles": 2 }
+  },
+  {
+    "id": "PART-282",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-283",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 2 },
+    "visitante": { "id": "EQ-008", "goles": 0 }
+  },
+  {
+    "id": "PART-284",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-006", "goles": 3 }
+  },
+  {
+    "id": "PART-285",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-010", "goles": 1 }
+  },
+  {
+    "id": "PART-286",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 3 },
+    "visitante": { "id": "EQ-010", "goles": 3 }
+  },
+  {
+    "id": "PART-287",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 2 },
+    "visitante": { "id": "EQ-005", "goles": 3 }
+  },
+  {
+    "id": "PART-288",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-289",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-012", "goles": 2 }
+  },
+  {
+    "id": "PART-290",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-291",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 2 }
+  },
+  {
+    "id": "PART-292",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 2 },
+    "visitante": { "id": "EQ-013", "goles": 2 }
+  },
+  {
+    "id": "PART-293",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 4 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-294",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 3 },
+    "visitante": { "id": "EQ-002", "goles": 5 }
+  },
+  {
+    "id": "PART-295",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-296",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-297",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-006", "goles": 1 }
+  },
+  {
+    "id": "PART-298",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-006", "goles": 0 }
+  },
+  {
+    "id": "PART-299",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 0 },
+    "visitante": { "id": "EQ-010", "goles": 2 }
+  },
+  {
+    "id": "PART-300",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-005", "goles": 2 }
+  },
+  {
+    "id": "PART-301",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-302",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 0 }
+  },
+  {
+    "id": "PART-303",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-007", "goles": 3 }
+  },
+  {
+    "id": "PART-304",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-305",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 4 },
+    "visitante": { "id": "EQ-011", "goles": 2 }
+  },
+  {
+    "id": "PART-306",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-003", "goles": 3 }
+  },
+  {
+    "id": "PART-307",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-002", "goles": 1 }
+  },
+  {
+    "id": "PART-308",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 0 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-309",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 3 },
+    "visitante": { "id": "EQ-008", "goles": 3 }
+  },
+  {
+    "id": "PART-310",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-008", "goles": 1 }
+  },
+  {
+    "id": "PART-311",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 5 },
+    "visitante": { "id": "EQ-001", "goles": 4 }
+  },
+  {
+    "id": "PART-312",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 0 }
+  },
+  {
+    "id": "PART-313",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-003", "goles": 0 }
+  },
+  {
+    "id": "PART-314",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-315",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-316",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-317",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-318",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-005", "goles": 2 }
+  },
+  {
+    "id": "PART-319",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 3 }
+  },
+  {
+    "id": "PART-320",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-006", "goles": 2 }
+  },
+  {
+    "id": "PART-321",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-008", "goles": 1 }
+  },
+  {
+    "id": "PART-322",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 0 },
+    "visitante": { "id": "EQ-001", "goles": 1 }
+  },
+  {
+    "id": "PART-323",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 1 },
+    "visitante": { "id": "EQ-002", "goles": 2 }
+  },
+  {
+    "id": "PART-324",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 3 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-325",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-326",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 2 }
+  },
+  {
+    "id": "PART-327",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "16/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-012", "goles": 3 }
+  },
+  {
+    "id": "PART-328",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 3 }
+  },
+  {
+    "id": "PART-329",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 2 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-330",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 2 }
+  },
+  {
+    "id": "PART-331",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-006", "goles": 0 }
+  },
+  {
+    "id": "PART-332",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 2 },
+    "visitante": { "id": "EQ-008", "goles": 2 }
+  },
+  {
+    "id": "PART-333",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-001", "goles": 2 }
+  },
+  {
+    "id": "PART-334",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 3 },
+    "visitante": { "id": "EQ-002", "goles": 4 }
+  },
+  {
+    "id": "PART-335",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 4 },
+    "visitante": { "id": "EQ-003", "goles": 2 }
+  },
+  {
+    "id": "PART-336",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-337",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 1 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-338",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 4 }
+  },
+  {
+    "id": "PART-339",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-340",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 1 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-341",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-010", "goles": 3 }
+  },
+  {
+    "id": "PART-342",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 0 },
+    "visitante": { "id": "EQ-006", "goles": 0 }
+  },
+  {
+    "id": "PART-343",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-008", "goles": 3 }
+  },
+  {
+    "id": "PART-344",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-345",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 3 },
+    "visitante": { "id": "EQ-002", "goles": 4 }
+  },
+  {
+    "id": "PART-346",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-347",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-348",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-007", "goles": 0 }
+  },
+  {
+    "id": "PART-349",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 2 },
+    "visitante": { "id": "EQ-012", "goles": 1 }
+  },
+  {
+    "id": "PART-350",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-351",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 0 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-352",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-353",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-006", "goles": 1 }
+  },
+  {
+    "id": "PART-354",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-008", "goles": 3 }
+  },
+  {
+    "id": "PART-355",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 5 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-356",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-002", "goles": 1 }
+  },
+  {
+    "id": "PART-357",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 4 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-358",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 2 },
+    "visitante": { "id": "EQ-011", "goles": 2 }
+  },
+  {
+    "id": "PART-359",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 3 },
+    "visitante": { "id": "EQ-007", "goles": 1 }
+  },
+  {
+    "id": "PART-360",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-012", "goles": 0 }
+  },
+  {
+    "id": "PART-361",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-362",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-363",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 0 },
+    "visitante": { "id": "EQ-010", "goles": 2 }
+  },
+  {
+    "id": "PART-364",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 0 },
+    "visitante": { "id": "EQ-013", "goles": 3 }
+  },
+  {
+    "id": "PART-365",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-008", "goles": 0 }
+  },
+  {
+    "id": "PART-366",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 4 },
+    "visitante": { "id": "EQ-001", "goles": 2 }
+  },
+  {
+    "id": "PART-367",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-002", "goles": 3 }
+  },
+  {
+    "id": "PART-368",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 2 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-369",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-370",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-007", "goles": 1 }
+  },
+  {
+    "id": "PART-371",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 2 },
+    "visitante": { "id": "EQ-012", "goles": 1 }
+  },
+  {
+    "id": "PART-372",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 3 },
+    "visitante": { "id": "EQ-009", "goles": 0 }
+  },
+  {
+    "id": "PART-373",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-374",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-010", "goles": 0 }
+  },
+  {
+    "id": "PART-375",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 3 },
+    "visitante": { "id": "EQ-006", "goles": 3 }
+  },
+  {
+    "id": "PART-376",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "26/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 1 },
+    "visitante": { "id": "EQ-012", "goles": 0 }
+  },
+  {
+    "id": "PART-377",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "26/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 2 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-378",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "27/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 1 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-379",
+    "temporada": "T2",
+    "competicion": "Xd Liga",
+    "fecha": "28/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-002", "goles": 2, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-001", "goles": 2, "penalesAnotados": 5 }
+  },
+  {
+    "id": "PART-380",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 3 },
+    "visitante": { "id": "EQ-023", "goles": 1 }
+  },
+  {
+    "id": "PART-381",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 0 },
+    "visitante": { "id": "EQ-020", "goles": 1 }
+  },
+  {
+    "id": "PART-382",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 0 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-383",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 2 }
+  },
+  {
+    "id": "PART-384",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 0 },
+    "visitante": { "id": "EQ-029", "goles": 3 }
+  },
+  {
+    "id": "PART-385",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 0 },
+    "visitante": { "id": "EQ-016", "goles": 3 }
+  },
+  {
+    "id": "PART-386",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-030", "goles": 3 }
+  },
+  {
+    "id": "PART-387",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-031", "goles": 3 }
+  },
+  {
+    "id": "PART-388",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 1 },
+    "visitante": { "id": "EQ-019", "goles": 1 }
+  },
+  {
+    "id": "PART-389",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "27/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 1 }
+  },
+  {
+    "id": "PART-390",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-025", "goles": 0 }
+  },
+  {
+    "id": "PART-391",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-021", "goles": 2 }
+  },
+  {
+    "id": "PART-392",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 2 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-393",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 0 },
+    "visitante": { "id": "EQ-015", "goles": 0 }
+  },
+  {
+    "id": "PART-394",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-022", "goles": 0 }
+  },
+  {
+    "id": "PART-395",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 0 }
+  },
+  {
+    "id": "PART-396",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 3 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-397",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 1 },
+    "visitante": { "id": "EQ-027", "goles": 1 }
+  },
+  {
+    "id": "PART-398",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-399",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "28/02/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 1 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-400",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-023", "goles": 1 }
+  },
+  {
+    "id": "PART-401",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 0 }
+  },
+  {
+    "id": "PART-402",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 4 },
+    "visitante": { "id": "EQ-020", "goles": 0 }
+  },
+  {
+    "id": "PART-403",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 0 },
+    "visitante": { "id": "EQ-024", "goles": 3 }
+  },
+  {
+    "id": "PART-404",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-405",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-029", "goles": 0 }
+  },
+  {
+    "id": "PART-406",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 0 }
+  },
+  {
+    "id": "PART-407",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-408",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 0 },
+    "visitante": { "id": "EQ-031", "goles": 1 }
+  },
+  {
+    "id": "PART-409",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "02/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 1 },
+    "visitante": { "id": "EQ-019", "goles": 1 }
+  },
+  {
+    "id": "PART-410",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-019", "goles": 2 }
+  },
+  {
+    "id": "PART-411",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-025", "goles": 2 }
+  },
+  {
+    "id": "PART-412",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 4 },
+    "visitante": { "id": "EQ-021", "goles": 0 }
+  },
+  {
+    "id": "PART-413",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-414",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 1 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-415",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 2 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-416",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 1 },
+    "visitante": { "id": "EQ-004", "goles": 0 }
+  },
+  {
+    "id": "PART-417",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-028", "goles": 2 }
+  },
+  {
+    "id": "PART-418",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 4 },
+    "visitante": { "id": "EQ-027", "goles": 1 }
+  },
+  {
+    "id": "PART-419",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "03/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 3 },
+    "visitante": { "id": "EQ-026", "goles": 1 }
+  },
+  {
+    "id": "PART-420",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 0 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-421",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 3 },
+    "visitante": { "id": "EQ-018", "goles": 0 }
+  },
+  {
+    "id": "PART-422",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-423",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 0 },
+    "visitante": { "id": "EQ-020", "goles": 3 }
+  },
+  {
+    "id": "PART-424",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 1 }
+  },
+  {
+    "id": "PART-425",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-426",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 1 },
+    "visitante": { "id": "EQ-029", "goles": 1 }
+  },
+  {
+    "id": "PART-427",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 4 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-428",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 2 }
+  },
+  {
+    "id": "PART-429",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "04/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 2 },
+    "visitante": { "id": "EQ-031", "goles": 3 }
+  },
+  {
+    "id": "PART-430",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-031", "goles": 1 }
+  },
+  {
+    "id": "PART-431",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 1 },
+    "visitante": { "id": "EQ-019", "goles": 2 }
+  },
+  {
+    "id": "PART-432",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 1 }
+  },
+  {
+    "id": "PART-433",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 2 },
+    "visitante": { "id": "EQ-021", "goles": 2 }
+  },
+  {
+    "id": "PART-434",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 0 },
+    "visitante": { "id": "EQ-032", "goles": 3 }
+  },
+  {
+    "id": "PART-435",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 4 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-436",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 0 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-437",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 1 },
+    "visitante": { "id": "EQ-004", "goles": 1 }
+  },
+  {
+    "id": "PART-438",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-028", "goles": 1 }
+  },
+  {
+    "id": "PART-439",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "06/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 0 },
+    "visitante": { "id": "EQ-027", "goles": 2 }
+  },
+  {
+    "id": "PART-440",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 4 },
+    "visitante": { "id": "EQ-023", "goles": 1 }
+  },
+  {
+    "id": "PART-441",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 0 },
+    "visitante": { "id": "EQ-026", "goles": 1 }
+  },
+  {
+    "id": "PART-442",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 0 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-443",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 0 }
+  },
+  {
+    "id": "PART-444",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-020", "goles": 3 }
+  },
+  {
+    "id": "PART-445",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 4 },
+    "visitante": { "id": "EQ-024", "goles": 3 }
+  },
+  {
+    "id": "PART-446",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 1 }
+  },
+  {
+    "id": "PART-447",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 2 },
+    "visitante": { "id": "EQ-029", "goles": 1 }
+  },
+  {
+    "id": "PART-448",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 2 },
+    "visitante": { "id": "EQ-016", "goles": 2 }
+  },
+  {
+    "id": "PART-449",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "07/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 2 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-450",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-451",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 3 },
+    "visitante": { "id": "EQ-031", "goles": 1 }
+  },
+  {
+    "id": "PART-452",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 1 },
+    "visitante": { "id": "EQ-025", "goles": 3 }
+  },
+  {
+    "id": "PART-453",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 3 },
+    "visitante": { "id": "EQ-021", "goles": 1 }
+  },
+  {
+    "id": "PART-454",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 3 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-455",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 1 },
+    "visitante": { "id": "EQ-015", "goles": 3 }
+  },
+  {
+    "id": "PART-456",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-022", "goles": 0 }
+  },
+  {
+    "id": "PART-457",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 0 },
+    "visitante": { "id": "EQ-004", "goles": 2 }
+  },
+  {
+    "id": "PART-458",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-459",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "08/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 2 },
+    "visitante": { "id": "EQ-019", "goles": 3 }
+  },
+  {
+    "id": "PART-460",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 1 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-461",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 1 },
+    "visitante": { "id": "EQ-027", "goles": 1 }
+  },
+  {
+    "id": "PART-462",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 4 },
+    "visitante": { "id": "EQ-026", "goles": 2 }
+  },
+  {
+    "id": "PART-463",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 0 },
+    "visitante": { "id": "EQ-018", "goles": 0 }
+  },
+  {
+    "id": "PART-464",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 2 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-465",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 1 },
+    "visitante": { "id": "EQ-020", "goles": 0 }
+  },
+  {
+    "id": "PART-466",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 0 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-467",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 3 },
+    "visitante": { "id": "EQ-014", "goles": 3 }
+  },
+  {
+    "id": "PART-468",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-029", "goles": 0 }
+  },
+  {
+    "id": "PART-469",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "09/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 0 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-470",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 0 }
+  },
+  {
+    "id": "PART-471",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 3 },
+    "visitante": { "id": "EQ-030", "goles": 3 }
+  },
+  {
+    "id": "PART-472",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 0 },
+    "visitante": { "id": "EQ-031", "goles": 0 }
+  },
+  {
+    "id": "PART-473",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 0 },
+    "visitante": { "id": "EQ-019", "goles": 2 }
+  },
+  {
+    "id": "PART-474",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 3 }
+  },
+  {
+    "id": "PART-475",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 3 },
+    "visitante": { "id": "EQ-021", "goles": 0 }
+  },
+  {
+    "id": "PART-476",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-477",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 1 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-478",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 3 },
+    "visitante": { "id": "EQ-022", "goles": 4 }
+  },
+  {
+    "id": "PART-479",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "10/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 1 },
+    "visitante": { "id": "EQ-004", "goles": 4 }
+  },
+  {
+    "id": "PART-480",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 2 },
+    "visitante": { "id": "EQ-023", "goles": 2 }
+  },
+  {
+    "id": "PART-481",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-482",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 0 },
+    "visitante": { "id": "EQ-027", "goles": 0 }
+  },
+  {
+    "id": "PART-483",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 4 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-484",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 0 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-485",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 3 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-486",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 0 },
+    "visitante": { "id": "EQ-020", "goles": 1 }
+  },
+  {
+    "id": "PART-487",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-488",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 1 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-489",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "12/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 1 },
+    "visitante": { "id": "EQ-029", "goles": 3 }
+  },
+  {
+    "id": "PART-490",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 4 },
+    "visitante": { "id": "EQ-029", "goles": 2 }
+  },
+  {
+    "id": "PART-491",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 0 }
+  },
+  {
+    "id": "PART-492",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 0 },
+    "visitante": { "id": "EQ-030", "goles": 0 }
+  },
+  {
+    "id": "PART-493",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-031", "goles": 2 }
+  },
+  {
+    "id": "PART-494",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 2 },
+    "visitante": { "id": "EQ-019", "goles": 2 }
+  },
+  {
+    "id": "PART-495",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 3 },
+    "visitante": { "id": "EQ-025", "goles": 0 }
+  },
+  {
+    "id": "PART-496",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 1 },
+    "visitante": { "id": "EQ-021", "goles": 1 }
+  },
+  {
+    "id": "PART-497",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-498",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 3 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-499",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "13/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 1 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-500",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 3 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-501",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-004", "goles": 2 }
+  },
+  {
+    "id": "PART-502",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 2 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-503",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 2 },
+    "visitante": { "id": "EQ-027", "goles": 2 }
+  },
+  {
+    "id": "PART-504",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 3 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-505",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 4 },
+    "visitante": { "id": "EQ-018", "goles": 2 }
+  },
+  {
+    "id": "PART-506",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 0 }
+  },
+  {
+    "id": "PART-507",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 1 },
+    "visitante": { "id": "EQ-020", "goles": 2 }
+  },
+  {
+    "id": "PART-508",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 3 },
+    "visitante": { "id": "EQ-024", "goles": 4 }
+  },
+  {
+    "id": "PART-509",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "14/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 0 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-510",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 1 },
+    "visitante": { "id": "EQ-023", "goles": 3 }
+  },
+  {
+    "id": "PART-511",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 1 },
+    "visitante": { "id": "EQ-022", "goles": 2 }
+  },
+  {
+    "id": "PART-512",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 2 }
+  },
+  {
+    "id": "PART-513",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 0 },
+    "visitante": { "id": "EQ-028", "goles": 1 }
+  },
+  {
+    "id": "PART-514",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-027", "goles": 0 }
+  },
+  {
+    "id": "PART-515",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 0 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-516",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 0 },
+    "visitante": { "id": "EQ-018", "goles": 3 }
+  },
+  {
+    "id": "PART-517",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 2 }
+  },
+  {
+    "id": "PART-518",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 1 },
+    "visitante": { "id": "EQ-020", "goles": 2 }
+  },
+  {
+    "id": "PART-519",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "17/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 0 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-520",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 1 },
+    "visitante": { "id": "EQ-024", "goles": 1 }
+  },
+  {
+    "id": "PART-521",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 1 }
+  },
+  {
+    "id": "PART-522",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 2 },
+    "visitante": { "id": "EQ-029", "goles": 0 }
+  },
+  {
+    "id": "PART-523",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-524",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 3 }
+  },
+  {
+    "id": "PART-525",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 0 },
+    "visitante": { "id": "EQ-031", "goles": 2 }
+  },
+  {
+    "id": "PART-526",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 0 },
+    "visitante": { "id": "EQ-019", "goles": 0 }
+  },
+  {
+    "id": "PART-527",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 0 },
+    "visitante": { "id": "EQ-021", "goles": 1 }
+  },
+  {
+    "id": "PART-528",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 2 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-529",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "18/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 0 },
+    "visitante": { "id": "EQ-025", "goles": 3 }
+  },
+  {
+    "id": "PART-530",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 1 },
+    "visitante": { "id": "EQ-023", "goles": 1 }
+  },
+  {
+    "id": "PART-531",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 4 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-532",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 0 },
+    "visitante": { "id": "EQ-022", "goles": 0 }
+  },
+  {
+    "id": "PART-533",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 7 },
+    "visitante": { "id": "EQ-004", "goles": 1 }
+  },
+  {
+    "id": "PART-534",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-535",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 2 },
+    "visitante": { "id": "EQ-027", "goles": 2 }
+  },
+  {
+    "id": "PART-536",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-537",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 2 },
+    "visitante": { "id": "EQ-018", "goles": 0 }
+  },
+  {
+    "id": "PART-538",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 3 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-539",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "20/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 1 },
+    "visitante": { "id": "EQ-020", "goles": 3 }
+  },
+  {
+    "id": "PART-540",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 3 },
+    "visitante": { "id": "EQ-020", "goles": 1 }
+  },
+  {
+    "id": "PART-541",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 2 },
+    "visitante": { "id": "EQ-024", "goles": 1 }
+  },
+  {
+    "id": "PART-542",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 4 },
+    "visitante": { "id": "EQ-014", "goles": 0 }
+  },
+  {
+    "id": "PART-543",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 0 },
+    "visitante": { "id": "EQ-029", "goles": 3 }
+  },
+  {
+    "id": "PART-544",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 3 }
+  },
+  {
+    "id": "PART-545",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-546",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 0 },
+    "visitante": { "id": "EQ-031", "goles": 3 }
+  },
+  {
+    "id": "PART-547",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-019", "goles": 2 }
+  },
+  {
+    "id": "PART-548",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 0 },
+    "visitante": { "id": "EQ-025", "goles": 1 }
+  },
+  {
+    "id": "PART-549",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "21/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 0 },
+    "visitante": { "id": "EQ-021", "goles": 0 }
+  },
+  {
+    "id": "PART-550",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 1 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-551",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 6 },
+    "visitante": { "id": "EQ-032", "goles": 4 }
+  },
+  {
+    "id": "PART-552",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 4 },
+    "visitante": { "id": "EQ-015", "goles": 0 }
+  },
+  {
+    "id": "PART-553",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 2 },
+    "visitante": { "id": "EQ-022", "goles": 2 }
+  },
+  {
+    "id": "PART-554",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 0 }
+  },
+  {
+    "id": "PART-555",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-028", "goles": 1 }
+  },
+  {
+    "id": "PART-556",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 2 },
+    "visitante": { "id": "EQ-027", "goles": 3 }
+  },
+  {
+    "id": "PART-557",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 3 },
+    "visitante": { "id": "EQ-026", "goles": 2 }
+  },
+  {
+    "id": "PART-558",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 5 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-559",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "22/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-560",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "23/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-561",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "23/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 4 },
+    "visitante": { "id": "EQ-032", "goles": 2 }
+  },
+  {
+    "id": "PART-562",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 3 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-563",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "24/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 2 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-564",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 4 },
+    "visitante": { "id": "EQ-031", "goles": 1 }
+  },
+  {
+    "id": "PART-565",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 2 },
+    "visitante": { "id": "EQ-021", "goles": 2 }
+  },
+  {
+    "id": "PART-566",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "26/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-031", "goles": 3, "penalesAnotados": 6 },
+    "visitante": { "id": "EQ-018", "goles": 0, "penalesAnotados": 7 }
+  },
+  {
+    "id": "PART-567",
+    "temporada": "T2",
+    "competicion": "Serie B",
+    "fecha": "26/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 3 },
+    "visitante": { "id": "EQ-030", "goles": 2 }
+  },
+  {
+    "id": "PART-568",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 0 },
+    "visitante": { "id": "EQ-023", "goles": 2 }
+  },
+  {
+    "id": "PART-569",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 1 },
+    "visitante": { "id": "EQ-031", "goles": 2 }
+  },
+  {
+    "id": "PART-570",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 2 },
+    "visitante": { "id": "EQ-026", "goles": 0 }
+  },
+  {
+    "id": "PART-571",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 1 },
+    "visitante": { "id": "EQ-030", "goles": 4 }
+  },
+  {
+    "id": "PART-572",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 2 }
+  },
+  {
+    "id": "PART-573",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 0 },
+    "visitante": { "id": "EQ-020", "goles": 0 }
+  },
+  {
+    "id": "PART-574",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 3 },
+    "visitante": { "id": "EQ-032", "goles": 1 }
+  },
+  {
+    "id": "PART-575",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 2 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-576",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 1 },
+    "visitante": { "id": "EQ-019", "goles": 3 }
+  },
+  {
+    "id": "PART-577",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 0 },
+    "visitante": { "id": "EQ-027", "goles": 1 }
+  },
+  {
+    "id": "PART-578",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 0 },
+    "visitante": { "id": "EQ-004", "goles": 2 }
+  },
+  {
+    "id": "PART-579",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 1 },
+    "visitante": { "id": "EQ-029", "goles": 0 }
+  },
+  {
+    "id": "PART-580",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-028", "goles": 1 }
+  },
+  {
+    "id": "PART-581",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 0 },
+    "visitante": { "id": "EQ-024", "goles": 2 }
+  },
+  {
+    "id": "PART-582",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 1 },
+    "visitante": { "id": "EQ-016", "goles": 2 }
+  },
+  {
+    "id": "PART-583",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "01/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 1 }
+  },
+  {
+    "id": "PART-584",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-023", "goles": 0 },
+    "visitante": { "id": "EQ-031", "goles": 0 }
+  },
+  {
+    "id": "PART-585",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-005", "goles": 2 },
+    "visitante": { "id": "EQ-013", "goles": 1 }
+  },
+  {
+    "id": "PART-586",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-026", "goles": 3 },
+    "visitante": { "id": "EQ-030", "goles": 1 }
+  },
+  {
+    "id": "PART-587",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 4 },
+    "visitante": { "id": "EQ-012", "goles": 1 }
+  },
+  {
+    "id": "PART-588",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-014", "goles": 2 },
+    "visitante": { "id": "EQ-020", "goles": 3 }
+  },
+  {
+    "id": "PART-589",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 1 },
+    "visitante": { "id": "EQ-017", "goles": 1 }
+  },
+  {
+    "id": "PART-590",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-032", "goles": 4 },
+    "visitante": { "id": "EQ-015", "goles": 1 }
+  },
+  {
+    "id": "PART-591",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 2 },
+    "visitante": { "id": "EQ-018", "goles": 1 }
+  },
+  {
+    "id": "PART-592",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 1 },
+    "visitante": { "id": "EQ-027", "goles": 1 }
+  },
+  {
+    "id": "PART-593",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-010", "goles": 0 },
+    "visitante": { "id": "EQ-021", "goles": 1 }
+  },
+  {
+    "id": "PART-594",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-004", "goles": 3 },
+    "visitante": { "id": "EQ-029", "goles": 0 }
+  },
+  {
+    "id": "PART-595",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-008", "goles": 1 },
+    "visitante": { "id": "EQ-006", "goles": 2 }
+  },
+  {
+    "id": "PART-596",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-028", "goles": 2 },
+    "visitante": { "id": "EQ-024", "goles": 0 }
+  },
+  {
+    "id": "PART-597",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-003", "goles": 1 }
+  },
+  {
+    "id": "PART-598",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-016", "goles": 2 },
+    "visitante": { "id": "EQ-025", "goles": 3 }
+  },
+  {
+    "id": "PART-599",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "05/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 2 },
+    "visitante": { "id": "EQ-022", "goles": 2 }
+  },
+  {
+    "id": "PART-600",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-013", "goles": 2 },
+    "visitante": { "id": "EQ-023", "goles": 0 }
+  },
+  {
+    "id": "PART-601",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-031", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 1 }
+  },
+  {
+    "id": "PART-602",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-012", "goles": 5 },
+    "visitante": { "id": "EQ-026", "goles": 1 }
+  },
+  {
+    "id": "PART-603",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-030", "goles": 3 },
+    "visitante": { "id": "EQ-002", "goles": 4 }
+  },
+  {
+    "id": "PART-604",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-017", "goles": 2 },
+    "visitante": { "id": "EQ-014", "goles": 2 }
+  },
+  {
+    "id": "PART-605",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-020", "goles": 2 },
+    "visitante": { "id": "EQ-001", "goles": 3 }
+  },
+  {
+    "id": "PART-606",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-018", "goles": 3 },
+    "visitante": { "id": "EQ-032", "goles": 1 }
+  },
+  {
+    "id": "PART-607",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-015", "goles": 0 },
+    "visitante": { "id": "EQ-007", "goles": 2 }
+  },
+  {
+    "id": "PART-608",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-021", "goles": 0 },
+    "visitante": { "id": "EQ-019", "goles": 0 }
+  },
+  {
+    "id": "PART-609",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-010", "goles": 1 }
+  },
+  {
+    "id": "PART-610",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 4 },
+    "visitante": { "id": "EQ-004", "goles": 0 }
+  },
+  {
+    "id": "PART-611",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-029", "goles": 2 },
+    "visitante": { "id": "EQ-008", "goles": 3 }
+  },
+  {
+    "id": "PART-612",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-003", "goles": 4 },
+    "visitante": { "id": "EQ-028", "goles": 2 }
+  },
+  {
+    "id": "PART-613",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-024", "goles": 2 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-614",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 3 },
+    "visitante": { "id": "EQ-016", "goles": 1 }
+  },
+  {
+    "id": "PART-615",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "11/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-025", "goles": 1 },
+    "visitante": { "id": "EQ-009", "goles": 2 }
+  },
+  {
+    "id": "PART-616",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-031", "goles": 2, "penalesAnotados": 2 },
+    "visitante": { "id": "EQ-009", "goles": 2, "penalesAnotados": 3 }
+  },
+  {
+    "id": "PART-617",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 1 },
+    "visitante": { "id": "EQ-005", "goles": 0 }
+  },
+  {
+    "id": "PART-618",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 2 },
+    "visitante": { "id": "EQ-018", "goles": 0 }
+  },
+  {
+    "id": "PART-619",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 3 },
+    "visitante": { "id": "EQ-004", "goles": 1 }
+  },
+  {
+    "id": "PART-620",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-019", "goles": 3, "penalesAnotados": 5 },
+    "visitante": { "id": "EQ-020", "goles": 3, "penalesAnotados": 3 }
+  },
+  {
+    "id": "PART-621",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 7 },
+    "visitante": { "id": "EQ-028", "goles": 0 }
+  },
+  {
+    "id": "PART-622",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-007", "goles": 1 },
+    "visitante": { "id": "EQ-027", "goles": 2 }
+  },
+  {
+    "id": "PART-623",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "15/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-022", "goles": 5 },
+    "visitante": { "id": "EQ-030", "goles": 4 }
+  },
+  {
+    "id": "PART-624",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "19/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-009", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 3 }
+  },
+  {
+    "id": "PART-625",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "19/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-006", "goles": 2, "penalesAnotados": 4 },
+    "visitante": { "id": "EQ-001", "goles": 2, "penalesAnotados": 1 }
+  },
+  {
+    "id": "PART-626",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "19/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-019", "goles": 2 },
+    "visitante": { "id": "EQ-002", "goles": 4 }
+  },
+  {
+    "id": "PART-627",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "19/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-027", "goles": 1 },
+    "visitante": { "id": "EQ-022", "goles": 2 }
+  },
+  {
+    "id": "PART-628",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "23/03/2025",
+    "penales": true,
+    "local": { "id": "EQ-011", "goles": 1, "penalesAnotados": 0 },
+    "visitante": { "id": "EQ-006", "goles": 1, "penalesAnotados": 3 }
+  },
+  {
+    "id": "PART-629",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "23/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-022", "goles": 1 }
+  },
+  {
+    "id": "PART-630",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "25/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-011", "goles": 3 },
+    "visitante": { "id": "EQ-022", "goles": 2 }
+  },
+  {
+    "id": "PART-631",
+    "temporada": "T2",
+    "competicion": "Copa Xd",
+    "fecha": "27/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-006", "goles": 4 },
+    "visitante": { "id": "EQ-002", "goles": 2 }
+  },
+  {
+    "id": "PART-632",
+    "temporada": "T2",
+    "competicion": "Supercopa Xd",
+    "fecha": "28/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 4 },
+    "visitante": { "id": "EQ-006", "goles": 1 }
+  },
+  {
+    "id": "PART-633",
+    "temporada": "T2",
+    "competicion": "Supercopa Xd",
+    "fecha": "28/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-001", "goles": 0 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
+  },
+  {
+    "id": "PART-634",
+    "temporada": "T2",
+    "competicion": "Supercopa Xd",
+    "fecha": "28/03/2025",
+    "penales": false,
+    "local": { "id": "EQ-002", "goles": 3 },
+    "visitante": { "id": "EQ-011", "goles": 1 }
   }
 ]

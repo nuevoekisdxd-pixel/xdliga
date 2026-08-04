@@ -584,17 +584,21 @@ h1 {
 /* Estilo para el botón gris que reemplaza al de ver ficha */
 .boton-deshabilitado {
     display: inline-block;
-    padding: 8px 12px;
-    background-color: #e2e3e5;
-    color: #383d41;
-    border: 1px solid #d6d8db;
+    padding: 6px 14px;         /* Relleno más sutil */
+    font-size: 0.85rem;        /* Tamaño de fuente más discreto */
+    background-color: #eaeded; /* Gris suave */
+    color: #7f8c8d;            /* Texto gris medio */
+    border: 1px solid #d5dbdb;
     border-radius: 4px;
-    font-size: 0.9rem;
     font-style: italic;
-    cursor: not-allowed;
     text-align: center;
-    width: 100%;
-    box-sizing: border-box;
+    align-self: center;        /* Evita que se estire a lo alto en contenedores Flex */
+}
+
+.etiqueta-extinto {
+    color: #c0392b;
+    font-weight: bold;
+    font-size: 0.9rem;
 }
 
 /* Contenedor del pie de página */
